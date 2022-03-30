@@ -1,0 +1,15 @@
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/bin/Debug/net5.0/static_extension.deps.json
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/bin/Debug/net5.0/static_extension.runtimeconfig.json
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/bin/Debug/net5.0/static_extension.runtimeconfig.dev.json
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/bin/Debug/net5.0/static_extension.dll
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/bin/Debug/net5.0/ref/static_extension.dll
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/bin/Debug/net5.0/static_extension.pdb
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/obj/Debug/net5.0/static_extension.csproj.AssemblyReference.cache
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/obj/Debug/net5.0/static_extension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/obj/Debug/net5.0/static_extension.AssemblyInfoInputs.cache
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/obj/Debug/net5.0/static_extension.AssemblyInfo.cs
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/obj/Debug/net5.0/static_extension.csproj.CoreCompileInputs.cache
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/obj/Debug/net5.0/static_extension.dll
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/obj/Debug/net5.0/ref/static_extension.dll
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/obj/Debug/net5.0/static_extension.pdb
+/Users/samiramiraslanov/Desktop/hw/class/hw10/static_extension/obj/Debug/net5.0/static_extension.genruntimeconfig.cache

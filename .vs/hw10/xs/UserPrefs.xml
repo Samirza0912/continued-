@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D248B293-4D85-4F9D-B982-488C96A67170}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="static_extension/Models/Group.cs">
+    <Files>
+      <File FileName="static_extension/Program.cs" Line="10" Column="13" />
+      <File FileName="static_extension/Models/UserClass.cs" Line="33" Column="15" />
+      <File FileName="static_extension/Models/Student.cs" Line="21" Column="1" />
+      <File FileName="static_extension/Models/Group.cs" Line="6" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hw10" expanded="True">
+            <Node name="static_extension" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Group.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.static__extension PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
